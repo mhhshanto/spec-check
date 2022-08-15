@@ -4,6 +4,6 @@
 1234
 12345
 
-const name = uppercase 
+const name = uppercase + lowercase
 //shaab
 //aaaa
