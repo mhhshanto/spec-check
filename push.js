@@ -8,7 +8,7 @@ uppercase= name.uppercase
 const name = uppercase + lowercase
 console.log(name)
 //shaab
-//aaaa
+//aaabbbbaa
 //aa
 aaaagwha
 aavhavavaahahA
