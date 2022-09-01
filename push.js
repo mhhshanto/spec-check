@@ -9,7 +9,4 @@ const name = uppercase + lowercase
 consolfe.log(name)
 //shaabvvb
 //aaghh
-aavhavaavhahahaaahahAaaaa
-aahaaadxffaafgaaav
-aaaaaaaaaaaaASআ
-abaffaaaaaaaqaaaaaaassahaabaaas
+a
