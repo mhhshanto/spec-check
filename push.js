@@ -8,5 +8,5 @@ uppercase= name.uppercase
 const name = uppercase + lowercase
 consolfe.log(name)
 //shaabvvbfawaaaaaA
-//aaghhzxdaaaasaaaa
+//aaghhzxdaaaasaaaaa
 aaddaba
