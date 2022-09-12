@@ -6,7 +6,6 @@
 name="aaaa"
 uppercase= name.uppercase
 const name = uppercase + lowercase
-consolfe.log(name)
-//shaabvvbfawaaaaaAaaaradaa
-//aaghhzxdaaaasaaaaaadraadaaa
+consolfe.
+f
 aaddaba
