@@ -7,5 +7,5 @@ name="aaaa"
 uppercase= name.uppercase
 const name = uppercase + lowercase
 consolfe.
-fs
+fsa
 aaddaba
