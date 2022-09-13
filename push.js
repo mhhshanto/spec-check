@@ -8,4 +8,5 @@ uppercase= name.uppercase
 const name = uppercase + lowercase
 consolfe.
 fsa
-aaddabaa
+aaddabaaa
+b
