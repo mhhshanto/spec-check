@@ -8,6 +8,6 @@ uppercase= name.uppercase
 const name = uppercase + lowercase
 consolfe.s
 fsaaaxaag
-aaddabaaaaaqaaaaaaahuahaujbacdgfgu
+aaddabaaaaaqaaaaaaahuahaujbajhcdgfgu
 baaaaaaaaaaagaaafsgfhafuujbbxgcahavgug
 hsaajhggbyyjjhubassba
