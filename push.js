@@ -9,5 +9,5 @@ const name = uppercase + lowercase
 consolfe.s
 fsaaaxaagh
 aaddabaaaaaqaaaaaaahuahaujbajhcdgfgu
-baaaaaaabaaaagaaafsgfhafuujbbxgcahavgughf
+baaaaaaabaaaagaaafsgfhafuujbbjbxgcahavgughf
 hsaajhggbyyjjhubassbatcffd
