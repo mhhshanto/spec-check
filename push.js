@@ -5,5 +5,5 @@
 12345F
 name="aaaa"
 uppercase= name.uppercasehyyiubgh
-const name = fsgfhahfuhggujhhsbshhuy
+const cname = fsgfhahfuhggujhhsbshhuy
 gbhhghffgbyhjbbvbghshahzghjyhহহghkgjh
