@@ -3,7 +3,7 @@
 12345a67h
 1234ah
 12345Fhj  
-name="aaaa"djjbv        
+name="aaaa"djjbv         
 uppercase= name.uppergcasehyyiubgh
 const cname = fsgfhahffuhggujhhsbshhuy
 gbhhghffgbyhjbvbvbghshahzghjyhহহghkgjh 
