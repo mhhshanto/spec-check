@@ -6,4 +6,4 @@
 name="aaaa"djjbv           
 uppercase= name.uppergcasehyyiubgh
 const cname = fsgfhahffuhggujhhsbshhuy
-gbhhgh ffgbyhjbvbvbgh hshahzghjyhহহghkgjh       0yy  
+gbhhgh ffgbyhjbvbvbgh hshahzghjyhহহghkgjh       0yy   
